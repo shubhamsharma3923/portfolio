@@ -69,34 +69,34 @@ export const EXPERIENCES: Experience[] = [
 
 export const PROJECTS: Project[] = [
   {
-    title: "DDA Payroll System",
+    title: "Payroll System (DDA)",
     tech: ["C#", "MVC", "SQL Server"],
     description: "Automates salary, tax, and allowances processing for DDA employees.",
-    imageSeed: "payroll-finance"
+    imageSeed: "payroll-dda"
   },
   {
-    title: "DDA Water Bill Management",
+    title: "Water Bill Management (DDA)",
     tech: ["C#", ".NET 7", "SQL Server"],
     description: "Enables online water bill payment and report generation.",
-    imageSeed: "water-utility"
+    imageSeed: "water-bill"
   },
   {
     title: "Gaushala Management (UP Govt.)",
     tech: ["C#", "ASP.NET Core", "SQL Server"],
     description: "Tracks cow data, medical history, and milk production.",
-    imageSeed: "agriculture-farm"
+    imageSeed: "cow-farm"
   },
   {
-    title: "Dairy DugdhaNeti",
+    title: "Dairy Dugdha-Neti (UP Govt.)",
     tech: ["C#", "ASP.NET Core", "SQL Server"],
     description: "Manages dairy scheme applications and approvals.",
-    imageSeed: "milk-dairy"
+    imageSeed: "dairy-milk"
   },
   {
-    title: "Fleet Tracker",
+    title: "Fleet Tracker/Route Sale",
     tech: ["C#", "ASP.NET Core", "SQL Server"],
     description: "Real-time GPS tracking of vehicles and driver analytics.",
-    imageSeed: "fleet-gps"
+    imageSeed: "fleet-tracking"
   }
 ];
 
