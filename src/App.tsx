@@ -52,7 +52,7 @@ export default function App() {
               animate={{ opacity: 1, x: 0 }}
               className="text-xl font-bold tracking-tighter text-slate-900"
             >
-              SS<span className="text-blue-600">.</span>
+              Shubham Sharma<span className="text-blue-600">.</span>
             </motion.div>
 
             {/* Desktop Nav */}
@@ -435,7 +435,7 @@ export default function App() {
       <footer className="py-12 border-t border-slate-200">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <div className="text-2xl font-bold tracking-tighter text-slate-900 mb-6">
-            SS<span className="text-blue-600">.</span>
+            Shubham Sharma<span className="text-blue-600">.</span>
           </div>
           <div className="flex justify-center space-x-6 mb-8">
             <a href={PERSONAL_INFO.linkedin} target="_blank" rel="noreferrer" className="text-slate-400 hover:text-blue-600 transition-colors"><Linkedin size={20} /></a>
